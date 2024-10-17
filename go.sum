@@ -1,0 +1,6 @@
+github.com/Valentin-Kaiser/go-dbase v1.12.2 h1:l3p8Wl1BOqCtJU5tiX4NeNJ1+mbYfLYY1yb0M/dETOU=
+github.com/Valentin-Kaiser/go-dbase v1.12.2/go.mod h1:pCeAnnjp29dtr1cwC2F7hj+a1BKoAb5UgniNoekn6C4=
+golang.org/x/sys v0.24.0 h1:Twjiwq9dn6R1fQcyiK+wQyHWfaz/BJB+YIpzU/Cv3Xg=
+golang.org/x/sys v0.24.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+golang.org/x/text v0.17.0 h1:XtiM5bkSOt+ewxlOE/aE/AKEHibwj/6gvWMl9Rsh0Qc=
+golang.org/x/text v0.17.0/go.mod h1:BuEKDfySbSR4drPmRPG/7iBdf8hvFMuRexcpahXilzY=
